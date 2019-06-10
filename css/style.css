@@ -70,14 +70,18 @@ a {
 }
 
 #rr {
-    width: 50%;
+    width: 33%;
     float: right;
 }
 
 #ll {
-    width: 50%;
-    float: top;
+    width: 33%;
+    float: left;
 
+}
+#cent {
+   width: 33%;
+   float:center;
 }
 
 img {
